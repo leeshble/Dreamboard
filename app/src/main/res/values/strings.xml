@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dreamboard</string>
+    <string name="host_ip">Host IP</string>
+    <string name="port">Port</string>
+    <string name="ip_address_hint">xxx.xxx.xxx.xxx</string>
+    <string name="port_hint">xxxx</string>
+    <string name="cancel">cancel</string>
+    <string name="confirm">confirm</string>
+</resources>
